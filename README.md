@@ -1,0 +1,2 @@
+# Number-reader-on-Google-Actions
+Hey there! Number Reader is a fun-to-play and time passing action developed under Dialogflow and Actions Console. The action uses very basic intents which can be easily understood and changed according to ones wish with logical methods. The main aim of this actions is "Nothing", just enjoy it by following the instructions given by the bot, at the end, all that matter is whether the number you have on your mind is same as the number displayed on the chat screen. Well, Good Luck!

@@ -21,7 +21,5 @@ Step 8: Wait for them to review your action, and you will receive a mail once yo
 
 Finally enjoy the Actions, they are fun to use and work with.
 
-## Developed by-
-## R.Yogesh Kumar
 
 Contact us through - noobstersnetwork@gmail.com
